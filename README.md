@@ -1,2 +1,2 @@
 
-# This is the source code of paper "Opinion-dynamics-with-double-thresholds"
+# This is the source Julia code of paper "Opinion-dynamics-with-double-thresholds"
